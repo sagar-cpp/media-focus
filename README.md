@@ -18,7 +18,7 @@ Our website is built using the following technologies:
 
 ## Getting Started
 To get a local copy of our website up and running, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/media-focus.git`
+1. Clone this repository to your local machine using `git clone https://github.com/sagar-cpp/media-focus.git`
 2. Open the `index.html` file in your web browser to view the website.
 
 ## Contributing
