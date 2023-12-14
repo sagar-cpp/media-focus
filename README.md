@@ -1,4 +1,5 @@
 👋 Welcome to the official GitHub repository for Media Focus, a leading marketing company dedicated to helping businesses achieve their marketing goals. This repository contains the source code for our company website.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://www.example.com)
 
 ## About Us
 At Media Focus, we specialize in creating tailored marketing solutions for businesses of all sizes. Our team of experienced professionals is committed to delivering high-quality marketing services that drive results and exceed expectations.
